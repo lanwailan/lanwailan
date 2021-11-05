@@ -1,6 +1,6 @@
 # Hi there :wave:, I'm Liang. <img src="https://komarev.com/ghpvc/?username=lanwailan" alt="lanwailan" />
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software Full Stack Engineer.**
 
 <table>
 <tr>
