@@ -17,7 +17,16 @@
 </tr>
 <tr>
 <td style = "width: 50%;">
+  
+ ## :seedling: Learning:
 
+- `Data Struct 21`
+- `Assembly Language NO.3`
+- `FreeRTOS`
+- `Aurix`
+- `Cortex-M3`
+- `AutoSAR BSW(OS、RTE、MCAL、CDD)`
+  
 ## :hammer_and_wrench: Languages and Tools:
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -40,15 +49,6 @@
 
 </td>
 <td style = "width: 50%;">
-
-## :seedling: Learning:
-
-- `Data Struct 21`
-- `Assembly Language NO.3`
-- `FreeRTOS`
-- `Aurix`
-- `Cortex-M3`
-- `AutoSAR BSW(OS、RTE、MCAL、CDD)`
 
 ## :speech_balloon: Development Experience
 
