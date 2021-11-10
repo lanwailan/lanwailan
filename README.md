@@ -6,7 +6,7 @@
 <tr>
 <td style = "width: 50%;">
   
-[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=lanwailan&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
+[![Liang's github stats](https://github-readme-stats.vercel.app/api?username=lanwailan&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
 
 </td>
 <td style = "width: 50%;">
@@ -20,12 +20,12 @@
   
  ## :seedling: Learning:
 
-- `Data Struct 21`
-- `Assembly Language NO.3`
-- `FreeRTOS`
+- `<<Data Struct>>`
+- `<<Assembly Language NO.3>>`
+- `<<FreeRTOS>>`
 - `Aurix`
 - `Cortex-M3`
-- `AutoSAR BSW(OS、RTE、MCAL、CDD)`
+- `AutoSAR BSW(OS、RTE、MCAL、DOIP、DSM、CDD)`
   
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -63,7 +63,7 @@
   - Mem(NVM、Fee)
   - NM(CANNM)
 - Low Layer Communication Protocol
-  - `CAN` (EzCAN, SAE J1939, UDS), LIN, RS485, `I2C`, `SPI`, QSPI, `UART`, `USB`, SWI
+  - `CAN`, LIN, RS485, `I2C`, `SPI`, QSPI, `UART`, `USB`, SWI
 
 </td>
 </tr>
